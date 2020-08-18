@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Multiplayer/Managers - Controllers/EnemyManagerMult.cs">
+    <Files>
+      <File FileName="Assets/Script/Managers - Controllers/EnemyManager.cs" Line="44" Column="5" />
+      <File FileName="Assets/Script/Multiplayer/Managers - Controllers/EnemyManagerMult.cs" Line="74" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

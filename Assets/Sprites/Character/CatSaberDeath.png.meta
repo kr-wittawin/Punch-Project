@@ -1,0 +1,3058 @@
+fileFormatVersion: 2
+guid: 95d5639bc68dd4eafb976dd1ab7fac2c
+timeCreated: 1440072995
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CatSaberDeath_0
+    21300002: CatSaberDeath_1
+    21300004: CatSaberDeath_2
+    21300006: CatSaberDeath_3
+    21300008: CatSaberDeath_4
+    21300010: CatSaberDeath_5
+    21300012: CatSaberDeath_6
+    21300014: CatSaberDeath_7
+    21300016: CatSaberDeath_8
+    21300018: CatSaberDeath_9
+    21300020: CatSaberDeath_10
+    21300022: CatSaberDeath_11
+    21300024: CatSaberDeath_12
+    21300026: CatSaberDeath_13
+    21300028: CatSaberDeath_14
+    21300030: CatSaberDeath_15
+    21300032: CatSaberDeath_16
+    21300034: CatSaberDeath_17
+    21300036: CatSaberDeath_18
+    21300038: CatSaberDeath_19
+    21300040: CatSaberDeath_20
+    21300042: CatSaberDeath_21
+    21300044: CatSaberDeath_22
+    21300046: CatSaberDeath_23
+    21300048: CatSaberDeath_24
+    21300050: CatSaberDeath_25
+    21300052: CatSaberDeath_26
+    21300054: CatSaberDeath_27
+    21300056: CatSaberDeath_28
+    21300058: CatSaberDeath_29
+    21300060: CatSaberDeath_30
+    21300062: CatSaberDeath_31
+    21300064: CatSaberDeath_32
+    21300066: CatSaberDeath_33
+    21300068: CatSaberDeath_34
+    21300070: CatSaberDeath_35
+    21300072: CatSaberDeath_36
+    21300074: CatSaberDeath_37
+    21300076: CatSaberDeath_38
+    21300078: CatSaberDeath_39
+    21300080: CatSaberDeath_40
+    21300082: CatSaberDeath_41
+    21300084: CatSaberDeath_42
+    21300086: CatSaberDeath_43
+    21300088: CatSaberDeath_44
+    21300090: CatSaberDeath_45
+    21300092: CatSaberDeath_46
+    21300094: CatSaberDeath_47
+    21300096: CatSaberDeath_48
+    21300098: CatSaberDeath_49
+    21300100: CatSaberDeath_50
+    21300102: CatSaberDeath_51
+    21300104: CatSaberDeath_52
+    21300106: CatSaberDeath_53
+    21300108: CatSaberDeath_54
+    21300110: CatSaberDeath_55
+    21300112: CatSaberDeath_56
+    21300114: CatSaberDeath_57
+    21300116: CatSaberDeath_58
+    21300118: CatSaberDeath_59
+    21300120: CatSaberDeath_60
+    21300122: CatSaberDeath_61
+    21300124: CatSaberDeath_62
+    21300126: CatSaberDeath_63
+    21300128: CatSaberDeath_64
+    21300130: CatSaberDeath_65
+    21300132: CatSaberDeath_66
+    21300134: CatSaberDeath_67
+    21300136: CatSaberDeath_68
+    21300138: CatSaberDeath_69
+    21300140: CatSaberDeath_70
+    21300142: CatSaberDeath_71
+    21300144: CatSaberDeath_72
+    21300146: CatSaberDeath_73
+    21300148: CatSaberDeath_74
+    21300150: CatSaberDeath_75
+    21300152: CatSaberDeath_76
+    21300154: CatSaberDeath_77
+    21300156: CatSaberDeath_78
+    21300158: CatSaberDeath_79
+    21300160: CatSaberDeath_80
+    21300162: CatSaberDeath_81
+    21300164: CatSaberDeath_82
+    21300166: CatSaberDeath_83
+    21300168: CatSaberDeath_84
+    21300170: CatSaberDeath_85
+    21300172: CatSaberDeath_86
+    21300174: CatSaberDeath_87
+    21300176: CatSaberDeath_88
+    21300178: CatSaberDeath_89
+    21300180: CatSaberDeath_90
+    21300182: CatSaberDeath_91
+    21300184: CatSaberDeath_92
+    21300186: CatSaberDeath_93
+    21300188: CatSaberDeath_94
+    21300190: CatSaberDeath_95
+    21300192: CatSaberDeath_96
+    21300194: CatSaberDeath_97
+    21300196: CatSaberDeath_98
+    21300198: CatSaberDeath_99
+    21300200: CatSaberDeath_100
+    21300202: CatSaberDeath_101
+    21300204: CatSaberDeath_102
+    21300206: CatSaberDeath_103
+    21300208: CatSaberDeath_104
+    21300210: CatSaberDeath_105
+    21300212: CatSaberDeath_106
+    21300214: CatSaberDeath_107
+    21300216: CatSaberDeath_108
+    21300218: CatSaberDeath_109
+    21300220: CatSaberDeath_110
+    21300222: CatSaberDeath_111
+    21300224: CatSaberDeath_112
+    21300226: CatSaberDeath_113
+    21300228: CatSaberDeath_114
+    21300230: CatSaberDeath_115
+    21300232: CatSaberDeath_116
+    21300234: CatSaberDeath_117
+    21300236: CatSaberDeath_118
+    21300238: CatSaberDeath_119
+    21300240: CatSaberDeath_120
+    21300242: CatSaberDeath_121
+    21300244: CatSaberDeath_122
+    21300246: CatSaberDeath_123
+    21300248: CatSaberDeath_124
+    21300250: CatSaberDeath_125
+    21300252: CatSaberDeath_126
+    21300254: CatSaberDeath_127
+    21300256: CatSaberDeath_128
+    21300258: CatSaberDeath_129
+    21300260: CatSaberDeath_130
+    21300262: CatSaberDeath_131
+    21300264: CatSaberDeath_132
+    21300266: CatSaberDeath_133
+    21300268: CatSaberDeath_134
+    21300270: CatSaberDeath_135
+    21300272: CatSaberDeath_136
+    21300274: CatSaberDeath_137
+    21300276: CatSaberDeath_138
+    21300278: CatSaberDeath_139
+    21300280: CatSaberDeath_140
+    21300282: CatSaberDeath_141
+    21300284: CatSaberDeath_142
+    21300286: CatSaberDeath_143
+    21300288: CatSaberDeath_144
+    21300290: CatSaberDeath_145
+    21300292: CatSaberDeath_146
+    21300294: CatSaberDeath_147
+    21300296: CatSaberDeath_148
+    21300298: CatSaberDeath_149
+    21300300: CatSaberDeath_150
+    21300302: CatSaberDeath_151
+    21300304: CatSaberDeath_152
+    21300306: CatSaberDeath_153
+    21300308: CatSaberDeath_154
+    21300310: CatSaberDeath_155
+    21300312: CatSaberDeath_156
+    21300314: CatSaberDeath_157
+    21300316: CatSaberDeath_158
+    21300318: CatSaberDeath_159
+    21300320: CatSaberDeath_160
+    21300322: CatSaberDeath_161
+    21300324: CatSaberDeath_162
+    21300326: CatSaberDeath_163
+    21300328: CatSaberDeath_164
+    21300330: CatSaberDeath_165
+    21300332: CatSaberDeath_166
+    21300334: CatSaberDeath_167
+    21300336: CatSaberDeath_168
+    21300338: CatSaberDeath_169
+    21300340: CatSaberDeath_170
+    21300342: CatSaberDeath_171
+    21300344: CatSaberDeath_172
+    21300346: CatSaberDeath_173
+    21300348: CatSaberDeath_174
+    21300350: CatSaberDeath_175
+    21300352: CatSaberDeath_176
+    21300354: CatSaberDeath_177
+    21300356: CatSaberDeath_178
+    21300358: CatSaberDeath_179
+    21300360: CatSaberDeath_180
+    21300362: CatSaberDeath_181
+    21300364: CatSaberDeath_182
+    21300366: CatSaberDeath_183
+    21300368: CatSaberDeath_184
+    21300370: CatSaberDeath_185
+    21300372: CatSaberDeath_186
+    21300374: CatSaberDeath_187
+    21300376: CatSaberDeath_188
+    21300378: CatSaberDeath_189
+    21300380: CatSaberDeath_190
+    21300382: CatSaberDeath_191
+    21300384: CatSaberDeath_192
+    21300386: CatSaberDeath_193
+    21300388: CatSaberDeath_194
+    21300390: CatSaberDeath_195
+    21300392: CatSaberDeath_196
+    21300394: CatSaberDeath_197
+    21300396: CatSaberDeath_198
+    21300398: CatSaberDeath_199
+    21300400: CatSaberDeath_200
+    21300402: CatSaberDeath_201
+    21300404: CatSaberDeath_202
+    21300406: CatSaberDeath_203
+    21300408: CatSaberDeath_204
+    21300410: CatSaberDeath_205
+    21300412: CatSaberDeath_206
+    21300414: CatSaberDeath_207
+    21300416: CatSaberDeath_208
+    21300418: CatSaberDeath_209
+    21300420: CatSaberDeath_210
+    21300422: CatSaberDeath_211
+    21300424: CatSaberDeath_212
+    21300426: CatSaberDeath_213
+    21300428: CatSaberDeath_214
+    21300430: CatSaberDeath_215
+    21300432: CatSaberDeath_216
+    21300434: CatSaberDeath_217
+    21300436: CatSaberDeath_218
+    21300438: CatSaberDeath_219
+    21300440: CatSaberDeath_220
+    21300442: CatSaberDeath_221
+    21300444: CatSaberDeath_222
+    21300446: CatSaberDeath_223
+    21300448: CatSaberDeath_224
+    21300450: CatSaberDeath_225
+    21300452: CatSaberDeath_226
+    21300454: CatSaberDeath_227
+    21300456: CatSaberDeath_228
+    21300458: CatSaberDeath_229
+    21300460: CatSaberDeath_230
+    21300462: CatSaberDeath_231
+    21300464: CatSaberDeath_232
+    21300466: CatSaberDeath_233
+    21300468: CatSaberDeath_234
+    21300470: CatSaberDeath_235
+    21300472: CatSaberDeath_236
+    21300474: CatSaberDeath_237
+    21300476: CatSaberDeath_238
+    21300478: CatSaberDeath_239
+    21300480: CatSaberDeath_240
+    21300482: CatSaberDeath_241
+    21300484: CatSaberDeath_242
+    21300486: CatSaberDeath_243
+    21300488: CatSaberDeath_244
+    21300490: CatSaberDeath_245
+    21300492: CatSaberDeath_246
+    21300494: CatSaberDeath_247
+    21300496: CatSaberDeath_248
+    21300498: CatSaberDeath_249
+    21300500: CatSaberDeath_250
+    21300502: CatSaberDeath_251
+    21300504: CatSaberDeath_252
+    21300506: CatSaberDeath_253
+    21300508: CatSaberDeath_254
+    21300510: CatSaberDeath_255
+    21300512: CatSaberDeath_256
+    21300514: CatSaberDeath_257
+    21300516: CatSaberDeath_258
+    21300518: CatSaberDeath_259
+    21300520: CatSaberDeath_260
+    21300522: CatSaberDeath_261
+    21300524: CatSaberDeath_262
+    21300526: CatSaberDeath_263
+    21300528: CatSaberDeath_264
+    21300530: CatSaberDeath_265
+    21300532: CatSaberDeath_266
+    21300534: CatSaberDeath_267
+    21300536: CatSaberDeath_268
+    21300538: CatSaberDeath_269
+    21300540: CatSaberDeath_270
+    21300542: CatSaberDeath_271
+    21300544: CatSaberDeath_272
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CatSaberDeath_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 698
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 664
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 630
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_48
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_51
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 596
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_64
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 562
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_74
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_77
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 528
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_87
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_88
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 494
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_99
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_100
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_101
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_102
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_103
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 460
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_106
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_107
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_112
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_113
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_114
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_115
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_116
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 426
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_118
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_119
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_122
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_123
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_125
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_126
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_127
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_128
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_129
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 392
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_131
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_134
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_136
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_139
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_140
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_141
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_142
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 358
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_146
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_147
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_148
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_151
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_152
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_153
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_154
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_155
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 324
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_157
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_159
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_160
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_161
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_162
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_165
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_166
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_167
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_168
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 290
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_170
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_171
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_172
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_173
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_174
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_175
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_177
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_178
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_179
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_180
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_181
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 256
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_183
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_184
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_185
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_186
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_187
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_188
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_190
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_191
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_192
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_193
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_194
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 222
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_195
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_196
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_197
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_198
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_199
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_200
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_201
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_202
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_203
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_204
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_205
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_206
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_207
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 188
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_209
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_210
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_211
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_212
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_213
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_214
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_215
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_216
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_217
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_218
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_219
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_220
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 154
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_222
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_223
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_224
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_225
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_226
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_227
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_228
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_229
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_230
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_231
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_232
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_233
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 120
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_234
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_235
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_236
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_237
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_238
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_239
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_240
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_241
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_242
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_243
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_244
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_245
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_246
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_247
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_248
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_249
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_250
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_251
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_252
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_253
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_254
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_255
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_256
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_257
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_258
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_259
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 52
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_260
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_261
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_262
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_263
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_264
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_265
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_266
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_267
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_268
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_269
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_270
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_271
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CatSaberDeath_272
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1815 @@
+fileFormatVersion: 2
+guid: 8527ecb39ae0e49c393fdab8dbd443c5
+timeCreated: 1440076797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlimeSD_0
+    21300002: SlimeSD_1
+    21300004: SlimeSD_2
+    21300006: SlimeSD_3
+    21300008: SlimeSD_4
+    21300010: SlimeSD_5
+    21300012: SlimeSD_6
+    21300014: SlimeSD_7
+    21300016: SlimeSD_8
+    21300018: SlimeSD_9
+    21300020: SlimeSD_10
+    21300022: SlimeSD_11
+    21300024: SlimeSD_12
+    21300026: SlimeSD_13
+    21300028: SlimeSD_14
+    21300030: SlimeSD_15
+    21300032: SlimeSD_16
+    21300034: SlimeSD_17
+    21300036: SlimeSD_18
+    21300038: SlimeSD_19
+    21300040: SlimeSD_20
+    21300042: SlimeSD_21
+    21300044: SlimeSD_22
+    21300046: SlimeSD_23
+    21300048: SlimeSD_24
+    21300050: SlimeSD_25
+    21300052: SlimeSD_26
+    21300054: SlimeSD_27
+    21300056: SlimeSD_28
+    21300058: SlimeSD_29
+    21300060: SlimeSD_30
+    21300062: SlimeSD_31
+    21300064: SlimeSD_32
+    21300066: SlimeSD_33
+    21300068: SlimeSD_34
+    21300070: SlimeSD_35
+    21300072: SlimeSD_36
+    21300074: SlimeSD_37
+    21300076: SlimeSD_38
+    21300078: SlimeSD_39
+    21300080: SlimeSD_40
+    21300082: SlimeSD_41
+    21300084: SlimeSD_42
+    21300086: SlimeSD_43
+    21300088: SlimeSD_44
+    21300090: SlimeSD_45
+    21300092: SlimeSD_46
+    21300094: SlimeSD_47
+    21300096: SlimeSD_48
+    21300098: SlimeSD_49
+    21300100: SlimeSD_50
+    21300102: SlimeSD_51
+    21300104: SlimeSD_52
+    21300106: SlimeSD_53
+    21300108: SlimeSD_54
+    21300110: SlimeSD_55
+    21300112: SlimeSD_56
+    21300114: SlimeSD_57
+    21300116: SlimeSD_58
+    21300118: SlimeSD_59
+    21300120: SlimeSD_60
+    21300122: SlimeSD_61
+    21300124: SlimeSD_62
+    21300126: SlimeSD_63
+    21300128: SlimeSD_64
+    21300130: SlimeSD_65
+    21300132: SlimeSD_66
+    21300134: SlimeSD_67
+    21300136: SlimeSD_68
+    21300138: SlimeSD_69
+    21300140: SlimeSD_70
+    21300142: SlimeSD_71
+    21300144: SlimeSD_72
+    21300146: SlimeSD_73
+    21300148: SlimeSD_74
+    21300150: SlimeSD_75
+    21300152: SlimeSD_76
+    21300154: SlimeSD_77
+    21300156: SlimeSD_78
+    21300158: SlimeSD_79
+    21300160: SlimeSD_80
+    21300162: SlimeSD_81
+    21300164: SlimeSD_82
+    21300166: SlimeSD_83
+    21300168: SlimeSD_84
+    21300170: SlimeSD_85
+    21300172: SlimeSD_86
+    21300174: SlimeSD_87
+    21300176: SlimeSD_88
+    21300178: SlimeSD_89
+    21300180: SlimeSD_90
+    21300182: SlimeSD_91
+    21300184: SlimeSD_92
+    21300186: SlimeSD_93
+    21300188: SlimeSD_94
+    21300190: SlimeSD_95
+    21300192: SlimeSD_96
+    21300194: SlimeSD_97
+    21300196: SlimeSD_98
+    21300198: SlimeSD_99
+    21300200: SlimeSD_100
+    21300202: SlimeSD_101
+    21300204: SlimeSD_102
+    21300206: SlimeSD_103
+    21300208: SlimeSD_104
+    21300210: SlimeSD_105
+    21300212: SlimeSD_106
+    21300214: SlimeSD_107
+    21300216: SlimeSD_108
+    21300218: SlimeSD_109
+    21300220: SlimeSD_110
+    21300222: SlimeSD_111
+    21300224: SlimeSD_112
+    21300226: SlimeSD_113
+    21300228: SlimeSD_114
+    21300230: SlimeSD_115
+    21300232: SlimeSD_116
+    21300234: SlimeSD_117
+    21300236: SlimeSD_118
+    21300238: SlimeSD_119
+    21300240: SlimeSD_120
+    21300242: SlimeSD_121
+    21300244: SlimeSD_122
+    21300246: SlimeSD_123
+    21300248: SlimeSD_124
+    21300250: SlimeSD_125
+    21300252: SlimeSD_126
+    21300254: SlimeSD_127
+    21300256: SlimeSD_128
+    21300258: SlimeSD_129
+    21300260: SlimeSD_130
+    21300262: SlimeSD_131
+    21300264: SlimeSD_132
+    21300266: SlimeSD_133
+    21300268: SlimeSD_134
+    21300270: SlimeSD_135
+    21300272: SlimeSD_136
+    21300274: SlimeSD_137
+    21300276: SlimeSD_138
+    21300278: SlimeSD_139
+    21300280: SlimeSD_140
+    21300282: SlimeSD_141
+    21300284: SlimeSD_142
+    21300286: SlimeSD_143
+    21300288: SlimeSD_144
+    21300290: SlimeSD_145
+    21300292: SlimeSD_146
+    21300294: SlimeSD_147
+    21300296: SlimeSD_148
+    21300298: SlimeSD_149
+    21300300: SlimeSD_150
+    21300302: SlimeSD_151
+    21300304: SlimeSD_152
+    21300306: SlimeSD_153
+    21300308: SlimeSD_154
+    21300310: SlimeSD_155
+    21300312: SlimeSD_156
+    21300314: SlimeSD_157
+    21300316: SlimeSD_158
+    21300318: SlimeSD_159
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SlimeSD_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 530
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_28
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 474
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_42
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 418
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_60
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_61
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 362
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_70
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_71
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_73
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_74
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_76
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_77
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_78
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 306
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_86
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_87
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_88
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_89
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_90
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_91
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_92
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_93
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_94
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 250
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_97
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_98
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_100
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_101
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_104
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_105
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_106
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_107
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_108
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_109
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_110
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_111
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 194
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_114
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_116
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_118
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_119
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_120
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_121
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_122
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_123
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_124
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_125
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_126
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_127
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 138
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_131
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_132
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_133
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_134
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_135
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_136
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_137
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_138
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_139
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_140
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_141
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_142
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_143
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 82
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_145
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_147
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_148
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_149
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_150
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_151
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_152
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_153
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_154
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_155
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_156
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_157
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_158
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSD_159
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 26
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

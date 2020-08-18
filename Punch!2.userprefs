@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Multiplayer/Player/AssignSkill.cs">
+    <Files>
+      <File FileName="Assets/Script/GameController.cs" Line="20" Column="20" />
+      <File FileName="Assets/Script/UI/SkillSelection/SkillSelectionManager.cs" Line="25" Column="53" />
+      <File FileName="Assets/Script/Multiplayer/Player/AssignSkill.cs" Line="23" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

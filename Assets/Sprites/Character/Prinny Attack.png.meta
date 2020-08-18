@@ -1,0 +1,1914 @@
+fileFormatVersion: 2
+guid: eb7fdf4af908b487dbe76d99973a323d
+timeCreated: 1439969547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prinny Attack_0
+    21300002: Prinny Attack_1
+    21300004: Prinny Attack_2
+    21300006: Prinny Attack_3
+    21300008: Prinny Attack_4
+    21300010: Prinny Attack_5
+    21300012: Prinny Attack_6
+    21300014: Prinny Attack_7
+    21300016: Prinny Attack_8
+    21300018: Prinny Attack_9
+    21300020: Prinny Attack_10
+    21300022: Prinny Attack_11
+    21300024: Prinny Attack_12
+    21300026: Prinny Attack_13
+    21300028: Prinny Attack_14
+    21300030: Prinny Attack_15
+    21300032: Prinny Attack_16
+    21300034: Prinny Attack_17
+    21300036: Prinny Attack_18
+    21300038: Prinny Attack_19
+    21300040: Prinny Attack_20
+    21300042: Prinny Attack_21
+    21300044: Prinny Attack_22
+    21300046: Prinny Attack_23
+    21300048: Prinny Attack_24
+    21300050: Prinny Attack_25
+    21300052: Prinny Attack_26
+    21300054: Prinny Attack_27
+    21300056: Prinny Attack_28
+    21300058: Prinny Attack_29
+    21300060: Prinny Attack_30
+    21300062: Prinny Attack_31
+    21300064: Prinny Attack_32
+    21300066: Prinny Attack_33
+    21300068: Prinny Attack_34
+    21300070: Prinny Attack_35
+    21300072: Prinny Attack_36
+    21300074: Prinny Attack_37
+    21300076: Prinny Attack_38
+    21300078: Prinny Attack_39
+    21300080: Prinny Attack_40
+    21300082: Prinny Attack_41
+    21300084: Prinny Attack_42
+    21300086: Prinny Attack_43
+    21300088: Prinny Attack_44
+    21300090: Prinny Attack_45
+    21300092: Prinny Attack_46
+    21300094: Prinny Attack_47
+    21300096: Prinny Attack_48
+    21300098: Prinny Attack_49
+    21300100: Prinny Attack_50
+    21300102: Prinny Attack_51
+    21300104: Prinny Attack_52
+    21300106: Prinny Attack_53
+    21300108: Prinny Attack_54
+    21300110: Prinny Attack_55
+    21300112: Prinny Attack_56
+    21300114: Prinny Attack_57
+    21300116: Prinny Attack_58
+    21300118: Prinny Attack_59
+    21300120: Prinny Attack_60
+    21300122: Prinny Attack_61
+    21300124: Prinny Attack_62
+    21300126: Prinny Attack_63
+    21300128: Prinny Attack_64
+    21300130: Prinny Attack_65
+    21300132: Prinny Attack_66
+    21300134: Prinny Attack_67
+    21300136: Prinny Attack_68
+    21300138: Prinny Attack_69
+    21300140: Prinny Attack_70
+    21300142: Prinny Attack_71
+    21300144: Prinny Attack_72
+    21300146: Prinny Attack_73
+    21300148: Prinny Attack_74
+    21300150: Prinny Attack_75
+    21300152: Prinny Attack_76
+    21300154: Prinny Attack_77
+    21300156: Prinny Attack_78
+    21300158: Prinny Attack_79
+    21300160: Prinny Attack_80
+    21300162: Prinny Attack_81
+    21300164: Prinny Attack_82
+    21300166: Prinny Attack_83
+    21300168: Prinny Attack_84
+    21300170: Prinny Attack_85
+    21300172: Prinny Attack_86
+    21300174: Prinny Attack_87
+    21300176: Prinny Attack_88
+    21300178: Prinny Attack_89
+    21300180: Prinny Attack_90
+    21300182: Prinny Attack_91
+    21300184: Prinny Attack_92
+    21300186: Prinny Attack_93
+    21300188: Prinny Attack_94
+    21300190: Prinny Attack_95
+    21300192: Prinny Attack_96
+    21300194: Prinny Attack_97
+    21300196: Prinny Attack_98
+    21300198: Prinny Attack_99
+    21300200: Prinny Attack_100
+    21300202: Prinny Attack_101
+    21300204: Prinny Attack_102
+    21300206: Prinny Attack_103
+    21300208: Prinny Attack_104
+    21300210: Prinny Attack_105
+    21300212: Prinny Attack_106
+    21300214: Prinny Attack_107
+    21300216: Prinny Attack_108
+    21300218: Prinny Attack_109
+    21300220: Prinny Attack_110
+    21300222: Prinny Attack_111
+    21300224: Prinny Attack_112
+    21300226: Prinny Attack_113
+    21300228: Prinny Attack_114
+    21300230: Prinny Attack_115
+    21300232: Prinny Attack_116
+    21300234: Prinny Attack_117
+    21300236: Prinny Attack_118
+    21300238: Prinny Attack_119
+    21300240: Prinny Attack_120
+    21300242: Prinny Attack_121
+    21300244: Prinny Attack_122
+    21300246: Prinny Attack_123
+    21300248: Prinny Attack_124
+    21300250: Prinny Attack_125
+    21300252: Prinny Attack_126
+    21300254: Prinny Attack_127
+    21300256: Prinny Attack_128
+    21300258: Prinny Attack_129
+    21300260: Prinny Attack_130
+    21300262: Prinny Attack_131
+    21300264: Prinny Attack_132
+    21300266: Prinny Attack_133
+    21300268: Prinny Attack_134
+    21300270: Prinny Attack_135
+    21300272: Prinny Attack_136
+    21300274: Prinny Attack_137
+    21300276: Prinny Attack_138
+    21300278: Prinny Attack_139
+    21300280: Prinny Attack_140
+    21300282: Prinny Attack_141
+    21300284: Prinny Attack_142
+    21300286: Prinny Attack_143
+    21300288: Prinny Attack_144
+    21300290: Prinny Attack_145
+    21300292: Prinny Attack_146
+    21300294: Prinny Attack_147
+    21300296: Prinny Attack_148
+    21300298: Prinny Attack_149
+    21300300: Prinny Attack_150
+    21300302: Prinny Attack_151
+    21300304: Prinny Attack_152
+    21300306: Prinny Attack_153
+    21300308: Prinny Attack_154
+    21300310: Prinny Attack_155
+    21300312: Prinny Attack_156
+    21300314: Prinny Attack_157
+    21300316: Prinny Attack_158
+    21300318: Prinny Attack_159
+    21300320: Prinny Attack_160
+    21300322: Prinny Attack_161
+    21300324: Prinny Attack_162
+    21300326: Prinny Attack_163
+    21300328: Prinny Attack_164
+    21300330: Prinny Attack_165
+    21300332: Prinny Attack_166
+    21300334: Prinny Attack_167
+    21300336: Prinny Attack_168
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Prinny Attack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 607
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 558
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 509
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_48
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_51
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 460
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_64
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 411
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_74
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_77
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 362
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_87
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_88
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 313
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_99
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_100
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_101
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_102
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_103
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 264
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_106
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_107
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_112
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_113
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_114
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_115
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_116
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 215
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_118
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_119
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_122
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_123
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_125
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_126
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_127
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_128
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_129
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 166
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_131
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_134
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_136
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_139
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_140
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_141
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_142
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 117
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_146
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_147
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_148
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_151
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_152
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_153
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_154
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_155
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_157
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_159
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_160
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_161
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_162
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_165
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_166
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_167
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prinny Attack_168
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 19
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
